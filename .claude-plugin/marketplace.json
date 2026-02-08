@@ -1,0 +1,22 @@
+{
+  "name": "clawdstrike-plugins",
+  "owner": {
+    "name": "Your Team"
+  },
+  "metadata": {
+    "description": "Security audit tools for OpenClaw deployments"
+  },
+  "plugins": [
+    {
+      "name": "clawdstrike",
+      "source": "./",
+      "description": "Security audit and threat model for OpenClaw gateway hosts. Verify OpenClaw configuration, exposure, skills/plugins, filesystem hygiene, and produce OK/VULNERABLE reports with evidence and fixes.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Team"
+      },
+      "keywords": ["security", "audit", "openclaw", "threat-model", "compliance"],
+      "category": "security"
+    }
+  ]
+}

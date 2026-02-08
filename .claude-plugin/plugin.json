@@ -1,0 +1,9 @@
+{
+  "name": "clawdstrike",
+  "description": "Security audit and threat model for OpenClaw gateway hosts. Verify OpenClaw configuration, exposure, skills/plugins, filesystem hygiene, and produce OK/VULNERABLE reports with evidence and fixes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Team"
+  },
+  "commands": "./skills"
+}
